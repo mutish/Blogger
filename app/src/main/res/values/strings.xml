@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Blogger</string>
+    <string name="title_activity_bottom_navigation">BottomNavigationActivity</string>
+    <string name="title_activity_side_navigation">SideNavigationActivity</string>
+    <string name="title_activity_tab_screen">TabScreenActivity</string>
+    <string name="title_activity_tabs">TabsActivity</string>
+</resources>
